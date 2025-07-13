@@ -37,8 +37,8 @@ BlackCipher enables you to:
 ## ▶️ Usage
 
 ```bash
-chmod +x gpg-box.sh
-./gpg-box.sh
+chmod +x black-cipher.sh
+./black-cipher.sh
 ```
 
 ---

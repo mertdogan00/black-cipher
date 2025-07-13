@@ -1,4 +1,4 @@
-#!/bin/bash  # This script runs in bash shell.
+#!/bin/bash 
 
 # === Color definitions for pretty terminal output ===
 green="\033[1;32m"
